@@ -37,7 +37,6 @@ SegTracker-Parameters:
 
 
 ### :full_moon_with_face:Credits
-Licenses for borrowed code can be found in [licenses.md](https://github.com/z-x-yang/Segment-and-Track-Anything/blob/main/licenses.md) file. 
 
 * DeAOT/AOT - [https://github.com/yoxu515/aot-benchmark](https://github.com/yoxu515/aot-benchmark)
 * SAM - [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
